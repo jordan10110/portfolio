@@ -1,0 +1,115 @@
+body{
+    background-color:#dedede;
+
+    font-family: 'Inter', sans-serif;  
+}
+
+div{
+    width:400px;
+    height:25px;
+    position:relative;
+    margin:25px;
+}
+
+.pozole1{
+    height: 485px; width:850px;
+    position:relative;
+    left:500px;
+    border-radius:15px;
+    border:3px gray solid;
+}
+
+.history{
+    position:relative;
+    top:-20px;
+    border:5px solid black;
+    border-radius:15px;
+    text-align: center;
+    padding:25px 0px;
+    font-size:35px;
+    left:35px;
+}
+
+.ingredients{
+    position:relative;
+    top:-20px;
+    border:5px solid black;
+    border-radius:15px;
+    text-align: center;
+    padding:25px 0px;
+    font-size:35px;
+    left:35px;
+}
+
+.howto{
+    position:relative;
+    top:-20px;
+    border:5px solid black;
+    border-radius:15px;
+    text-align: center;
+    padding:25px 0px;
+    font-size:35px;
+    left:35px;
+}
+
+.og{
+    position:relative;
+    top:-20px;
+    border:5px solid black;
+    border-radius:15px;
+    text-align: center;
+    padding:25px 0px;
+    font-size:35px;
+    left:35px;
+}
+
+.history:hover{
+    border:5px solid red;
+
+}
+
+.ingredients:hover{
+    border:5px solid limegreen;
+
+}
+
+.howto:hover{
+    border:5px solid lightskyblue;
+
+}
+
+.og:hover{
+    border:5px solid hotpink;
+
+}
+
+a{
+    text-decoration:none;
+    color:black;
+}
+
+header{
+    background-color:black;
+    width:1370px;
+    height:60px;
+    left:-10px;
+    top:-35px;
+    position:relative;
+    font-size:25px;
+    color:white;
+}
+
+.home{
+    position:relative;
+    top:50px;
+    border:5px solid black;
+    border-radius:15px;
+    text-align: center;
+    padding:25px 0px;
+    font-size:35px;
+    left:450px;
+    overflow: hidden;}
+
+    .home:hover{
+        border-color:rgb(227, 12, 12);
+}
