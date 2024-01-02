@@ -1,0 +1,146 @@
+.name{
+    top:100px;
+    font-size: 80px;
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    margin:0;
+    padding:0;
+    background-color:#0e0e0f;
+}
+
+.sidebar{
+    font-family: 'Raleway', sans-serif;
+    color:white;
+    font-size:30px;
+    margin-top: 30px;
+}
+
+a{
+  text-decoration: none;  
+  color:white;
+  margin: 20px;
+}
+
+.line{
+    background-color: white;
+    width: 1px;
+    height: 470px;
+    position: absolute;
+    top:455px;
+    left: 300px;
+}
+
+.line2{
+    background-color: white;
+    width: 1px;
+    height: 550px;
+    position: absolute;
+    top:300px;
+    left: 300px; 
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.photo{
+    border:3px white solid;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.bio{
+    font-size: 30px;
+    color:white;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 50px;
+}
+
+.viewing{
+    color:rgb(163, 163, 163);
+    font-size: 40px;
+}
+
+.weblist{
+    font-family: 'Raleway', sans-serif;
+    margin:10px;
+    font-size: 30px;
+    color:white;
+}
+
+.gtatext{
+    font-size: 30px;
+    position:absolute;
+    left:580px;
+    top:375px;
+    border: 3px white solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+.mw3{
+    position:absolute;
+    margin-top: 75px;
+
+}
+
+.mw3text{
+    font-size: 30px;
+    position:absolute;
+    left:580px;
+    top:725px;
+    border: 3px white solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.fort{
+    position:absolute;
+    margin-top: 480px;
+}
+
+.forttext{
+    font-size: 30px;
+    position:absolute;
+    left:345px;
+    top:1600px;
+    border: 3px white solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.r6{
+    position:absolute;
+    margin-top: 1450px;
+}
+
+.r6text{
+    font-size: 30px;
+    position:absolute;
+    left:580px;
+    top:2100px;
+    border: 3px white solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.footer{
+    background-color: black;
+    width:100;
+    height:90px;
+    margin-top: 20px;
+    border-top: 2px white solid;
+}
+
+.footext{
+    color: white;
+    font-family: Raleway, sans serif;
+    font-size: 20px; 
+}
+
+.copyright{
+    position: absolute;
+    left: 1150px;
+    bottom: -400px;
+}
