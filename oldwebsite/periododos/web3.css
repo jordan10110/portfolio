@@ -1,0 +1,16 @@
+.hello{
+    margin-top: 50px !important;
+  }
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 19px;
+}
+
+img{
+    margin-left: 10px;
+    margin-right: 10px;
+}

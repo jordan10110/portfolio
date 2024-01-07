@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(178, 196, 234);
+}
+
+.main{
+    width: 100%;
+    max-width: 70%;
+
+    border-radius: 10px;
+    margin:70px auto;
+    padding: 20px;
+
+    color: #000;
+    background-color: #fff;
+    font-family: 'Pixelify Sans', sans-serif;
+
+}
